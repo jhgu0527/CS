@@ -13,6 +13,8 @@ djangorestframework-jwt = "*"
 requests = "*"
 djangorestframework = "*"
 pillow = "*"
+gunicorn = "*"
+braces = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
