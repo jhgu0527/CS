@@ -106,7 +106,8 @@ DATABASES = {
         'NAME': 'topiczen',
         'USER': 'root',
         'PASSWORD': 'TopicZenM<1>',
-        'HOST': '99.79.63.202',
+        # 'HOST': '99.79.63.202',
+        'HOST': '127.0.0.1',
         'PORT': '3306'
     }
 }
